@@ -3,3 +3,4 @@ pydantic>=2.0
 pydantic-settings
 starlette
 uvicorn[standard]
+numpy>=2.0.0
